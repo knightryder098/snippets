@@ -1,0 +1,18 @@
+{
+	"cs": {
+	"prefix": ["cs"],
+	"body": [
+"#include <bits/stdc++.h>",
+"using namespace std;",
+"#define ll long long",
+"#define all(x) x.begin(), x.end()",
+"const int mod = 1e9 + 7;",
+"int main() {",
+"\n\t${0}"
+"\n\treturn 0;\n}\n"
+	
+	],
+
+	"description": "Default cpp code for CP"
+  }
+}
